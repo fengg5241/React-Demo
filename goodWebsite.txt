@@ -1,1 +1,8 @@
 http://study.163.com/course/introduction/1003121012.htm
+
+宅印团队教程】实例讲解基于 react+redux 的前端开发流程
+https://www.jianshu.com/p/e293f3aba15e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+
+分享一个 react + redux 完整的项目，同时写一下个人感悟
+https://www.jianshu.com/p/815ec73b1354?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+
