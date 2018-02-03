@@ -6,3 +6,10 @@ https://www.jianshu.com/p/e293f3aba15e?utm_campaign=maleskine&utm_content=note&u
 分享一个 react + redux 完整的项目，同时写一下个人感悟
 https://www.jianshu.com/p/815ec73b1354?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 
+export defualt 作用
+    export function Func () { }
+    import { Func } from 'func'
+
+    export default function Func () { }
+    import Func from 'func'
+
